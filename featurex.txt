@@ -1,1 +1,1 @@
-feature x in master branch
+feature x in branch2 branch
