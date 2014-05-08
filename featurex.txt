@@ -1,1 +1,1 @@
-feature x in master branch
+feature x merged from branch3 branch
